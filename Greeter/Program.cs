@@ -6,8 +6,9 @@
     }
     const string EnglishGreeting = "Hello";
 
-    public static string GetGreeting(string input)
+    public static string GetGreeting()
     {
+        string input = "";
         if (string.IsNullOrWhiteSpace(input))
             return "Hello,world";
 

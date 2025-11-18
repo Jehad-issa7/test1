@@ -9,7 +9,7 @@ public class UnitTest1
         string expected = "Hello,world";
 
         //Act 
-        string actual = Program.GetGreeting("");
+        string actual = Program.GetGreeting();
 
         //Assert
         Assert.Equal(expected, actual);
