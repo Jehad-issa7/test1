@@ -6,12 +6,11 @@
     }
     const string EnglishGreeting = "Hello";
 
-    public static string GetGreeting()
+    public static string GetGreeting(string input)
     {
-        string input = "";
         if (string.IsNullOrWhiteSpace(input))
             return "Hello,world";
 
-        return EnglishGreeting + input + "!";
+        return EnglishGreeting + "," + input + "!";
     }
 }
