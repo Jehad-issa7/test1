@@ -8,6 +8,9 @@
 
     public static string GetGreeting(string input)
     {
-        return EnglishGreeting + ", " + input + "!";
+        if (string.IsNullOrWhiteSpace(input))
+            return "Hello,world";
+
+        return EnglishGreeting + input + "!";
     }
 }

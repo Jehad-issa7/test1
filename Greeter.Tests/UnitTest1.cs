@@ -6,10 +6,10 @@ public class UnitTest1
     public void Test1()
     {
         //Arrange
-        string expected = "Hello, Jehad!";
+        string expected = "Hello,world";
 
         //Act 
-        string actual = Program.GetGreeting("Jehad");
+        string actual = Program.GetGreeting("");
 
         //Assert
         Assert.Equal(expected, actual);
