@@ -4,8 +4,10 @@
     {
 
     }
+    const string EnglishGreeting = "Hello";
+
     public static string GetGreeting(string input)
     {
-        return "Hello, " + input + "!";
+        return EnglishGreeting + ", " + input + "!";
     }
 }

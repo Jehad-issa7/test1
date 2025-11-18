@@ -12,3 +12,4 @@ C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\r
 C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\Greeter.pdb
 C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\Greeter.genruntimeconfig.cache
 C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\ref\Greeter.dll
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\Greeter.sourcelink.json
