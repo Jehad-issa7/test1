@@ -1,0 +1,14 @@
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\bin\Debug\net10.0\Greeter.exe
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\bin\Debug\net10.0\Greeter.deps.json
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\bin\Debug\net10.0\Greeter.runtimeconfig.json
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\bin\Debug\net10.0\Greeter.dll
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\bin\Debug\net10.0\Greeter.pdb
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\Greeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\Greeter.AssemblyInfoInputs.cache
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\Greeter.AssemblyInfo.cs
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\Greeter.csproj.CoreCompileInputs.cache
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\Greeter.dll
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\refint\Greeter.dll
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\Greeter.pdb
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\Greeter.genruntimeconfig.cache
+C:\Users\jehad\Desktop\suvnet2025\oop1\testing\test1\Greeter\obj\Debug\net10.0\ref\Greeter.dll
